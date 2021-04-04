@@ -1,10 +1,10 @@
 {
-  "name": "WhatsAsenaDuplicated",
+  "name": "Asenax1",
   "version": "1.0.0",
   "description": "WhatsAsena project - a Whatsapp userbot helping to improve your Whatsapp experience.",
-  "main": "./WhatsAsenaDuplicated/bot.js",
+  "main": "./Asenax1/bot.js",
   "scripts": {
-    "start": "supervisor -s bot.js"
+    "start": "node bot.js"
   },
   "repository": {
     "type": "git",
